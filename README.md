@@ -1,11 +1,4 @@
 # Control de Inventario de Productos
-## Integrantes
-Armijo Quito Jorge Luis
-
-Serafín Alacio Manuel Román
-
-Alcívar Cuenca Patricio Eli
-
 
 Sistema distribuido para la gestión básica de inventario de productos y control de movimientos de stock.
 
