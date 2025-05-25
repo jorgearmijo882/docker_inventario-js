@@ -1,0 +1,6 @@
+
+body { font-family: Arial; margin: 2em; }
+h1 { color: #19589b; }
+input, button { margin: 0.5em; }
+.product-list { margin-top: 1em; }
+.product-list li { margin-bottom: 0.7em; }
